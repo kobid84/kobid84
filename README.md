@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Kobi Dikrman 👋
 
-<!--
-**kobid84/kobid84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm System Administrator at Electra LTD.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Knowledge
+ 
+### Languages
+![PowerShell](https://img.shields.io/badge/PowerShell-333?style=flat&logo=powershell)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+ 
+### Systems
+![Ansible](https://img.shields.io/badge/Ansible-333?style=plastic&logo=ansible)
+![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
+![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
+![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
+![Jenkins](https://img.shields.io/badge/Azure-333?style=flat&logo=jenkins)
+![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
