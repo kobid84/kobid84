@@ -1,6 +1,6 @@
-### Hi, I'm Kobi Dikrman 👋
+### Hi, I'm Kobi Dikrman
 
-## I'm System Administrator at Electra LTD.
+## I'm Senior System Administrator at Electra LTD.
 
 ## Tech Knowledge
  
@@ -15,3 +15,4 @@
 ![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
 ![Jenkins](https://img.shields.io/badge/Azure-333?style=flat&logo=jenkins)
 ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
+![Exchange](https://img.shields.io/badge/Exchange-333?logo=microsoftexchange)
