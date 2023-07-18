@@ -4,10 +4,6 @@
 
 ## Tech Knowledge
  
-### Languages
-![PowerShell](https://img.shields.io/badge/PowerShell-333?style=flat&logo=powershell)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
- 
 ### Systems & Tools
 ![Ansible](https://img.shields.io/badge/Ansible-333?style=flat&logo=ansible)
 ![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
@@ -20,6 +16,10 @@
 ![VisualStudio Code](https://img.shields.io/badge/VisualStudio%20Code-333?logo=visualstudiocode&logoColor=blue)
 ![Jira](https://img.shields.io/badge/Jira-333?logo=jira&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-333?logo=confluence&logoColor=blue)
+
+### Languages
+![PowerShell](https://img.shields.io/badge/PowerShell-333?style=flat&logo=powershell)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
 
 ### Monitoring
 ![CheckMK](https://img.shields.io/badge/CheckMK-333?labelColor=15D1A0)
