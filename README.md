@@ -17,3 +17,8 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
 ![Exchange](https://img.shields.io/badge/Exchange-333?logo=microsoftexchange)
 ![Postman](https://img.shields.io/badge/Postman-333?logo=postman)
+![VisualStudio Code](https://img.shields.io/badge/VisualStudio%20Code-333?logo=visualstudiocode&logoColor=blue)
+
+## Connect with me
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dkobi84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobid)
