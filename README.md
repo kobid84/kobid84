@@ -9,7 +9,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
  
 ### Systems
-![Ansible](https://img.shields.io/badge/Ansible-333?style=plastic&logo=ansible)
+![Ansible](https://img.shields.io/badge/Ansible-333?style=flat&logo=ansible)
 ![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
 ![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
 ![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
