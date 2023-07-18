@@ -18,7 +18,7 @@
 ![Jira](https://img.shields.io/badge/Jira-333?logo=jira&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-333?logo=confluence&logoColor=blue)
 ![Veeam B&R](https://img.shields.io/badge/Veeam%20B%26R-333?labelColor=00B336)
-![IIS](https://img.shields.io/badge/IIS-333?labelColor=%23007DB8)
+![IIS](https://img.shields.io/badge/Microsoft%20IIS-333?labelColor=%23007DB8)
 
 #### Monitoring
 ![CheckMK](https://img.shields.io/badge/CheckMK-333?labelColor=15D1A0)
