@@ -1,6 +1,6 @@
 ## Hi, I'm Kobi Dikrman
 
-## I'm Senior System Administrator at Electra LTD.
+## I'm a Senior System Administrator at Electra LTD.
 
 ### Tech Knowledge
  
