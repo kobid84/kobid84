@@ -13,6 +13,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
 ![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
 ![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
-![Jenkins](https://img.shields.io/badge/Azure-333?style=flat&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
 ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
 ![Exchange](https://img.shields.io/badge/Exchange-333?logo=microsoftexchange)
