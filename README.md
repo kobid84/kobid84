@@ -10,16 +10,21 @@
  
 ### Systems & Tools
 ![Ansible](https://img.shields.io/badge/Ansible-333?style=flat&logo=ansible)
-![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
 ![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
 ![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
 ![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
+![Rundeck](https://img.shields.io/badge/Rundeck-333?labelColor=DE3434)
 ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
 ![Exchange](https://img.shields.io/badge/Exchange-333?logo=microsoftexchange)
 ![Postman](https://img.shields.io/badge/Postman-333?logo=postman)
 ![VisualStudio Code](https://img.shields.io/badge/VisualStudio%20Code-333?logo=visualstudiocode&logoColor=blue)
 ![Jira](https://img.shields.io/badge/Jira-333?logo=jira&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/Confluence-333?logo=confluence&logoColor=blue)
+
+### Monitoring
+![CheckMK](https://img.shields.io/badge/CheckMK-333?labelColor=15D1A0)
+![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
+![HostMonitor](https://img.shields.io/badge/HostMonitor-333?labelColor=navy)
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dkobi84@gmail.com)
