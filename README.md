@@ -9,7 +9,7 @@
 ![Packer](https://img.shields.io/badge/Packer-333?style=flat&logo=packer)
 ![Azure](https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure)
 ![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
-![Rundeck](https://img.shields.io/badge/Rundeck-333?labelColor=DE3434)
+![Rundeck](https://img.shields.io/badge/Rundeck-333?logo=rundeck)
 ![MSSQL](https://img.shields.io/badge/MSSQL-333?style=flat&logo=microsoftsqlserver)
 ![VMWare](https://img.shields.io/badge/VMWare%20vSphere-333?labelColor=79BC1E)
 ![Exchange](https://img.shields.io/badge/Exchange-333?logo=microsoftexchange)
@@ -21,7 +21,7 @@
 ![IIS](https://img.shields.io/badge/Microsoft%20IIS-333?labelColor=%23007DB8)
 
 #### Monitoring
-![CheckMK](https://img.shields.io/badge/CheckMK-333?labelColor=15D1A0)
+![CheckMK](https://img.shields.io/badge/CheckMK-333?label&logo=checkmk)
 ![Grafana](https://img.shields.io/badge/Grafana-333?style=flat&logo=grafana)
 ![HostMonitor](https://img.shields.io/badge/HostMonitor-333?labelColor=navy)
 
